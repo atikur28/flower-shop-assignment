@@ -81,3 +81,32 @@ body{
     padding: 0px 130px 0px 130px;
 }
 /* Deal Section */
+.deals{
+    text-align: center;
+}
+.pink{
+    color: #E55473;
+}
+.deal-header{
+    color: #272727;
+    font-size: 36px;
+    font-weight: 800;
+    margin-bottom: 15px;
+}
+.deal-para{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 19px;
+}
+.deal-section{
+    height: 60vh;
+    margin-top: 70px;
+    background-color: rgba(229, 84, 115, 0.05);
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0px 240px;
+}
+/* Instagram Section */
