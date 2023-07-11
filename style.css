@@ -161,6 +161,22 @@ body{
     margin-left: 19px;
     margin-top: 128px;
 }
+/* Benefit Section */
+.main-benefit{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.benefits{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    height: 20vh;
+    box-shadow: 3px 3px 3px #E5DFE5;
+    margin:60px 240px;
+    padding-top: 30px;
+}
 /* Footer Section */
 .footer-section{
     height: 40vh;
