@@ -5,7 +5,7 @@ body{
     margin: 0px;
     padding: 0px;
 }
-/* banner section */
+/* Header Section */
 .banner-header{
     color: #272727;
     font-size: 80px;
@@ -38,6 +38,7 @@ body{
 .banner-img{
     margin-bottom: -174px;
 }
+/* Main Section */
 /* Our Featured Flowers Section */
 .features-title{
     text-align: center;
@@ -68,6 +69,12 @@ body{
     padding-top: 120px;
     padding-left: 45px;
     padding-right: 45px;
+}
+.tree-img2{
+    background-color: rgba(5, 151, 160, 0.15);
+}
+.tree-img3{
+    background-color: rgba(71, 125, 17, 0.15);
 }
 .box{
     text-align: center;
@@ -110,3 +117,47 @@ body{
     padding: 0px 240px;
 }
 /* Instagram Section */
+.insta-header{
+    color: #272727;
+    font-size: 36px;
+    font-weight: 800;
+    padding-bottom: 15px;
+}
+.insta-para{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    font-weight: 400;
+    padding-bottom: 48px;
+}
+.insta-info{
+    text-align: center;
+    margin-top: 128px;
+}
+.insta-img{
+    width: 340px;
+    padding-left: 24px;
+}
+.insta-flowers{
+    text-align: center;
+}
+.insta-header{
+    padding-top: 90px;
+}
+.email{
+    border: none;
+    border-radius: 8px;
+    background-color: #FFF;
+    padding: 22px 510px 22px 22px;
+}
+.insta-input{
+    padding-bottom: 120px;
+    padding-left: 30px;
+}
+.insta-subscribtion{
+    background-image: url("./flower-asset/rectangle\ 9.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    margin-left: 19px;
+}
+/* Footer Section */
