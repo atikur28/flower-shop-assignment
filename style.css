@@ -159,5 +159,30 @@ body{
     background-position: center;
     text-align: center;
     margin-left: 19px;
+    margin-top: 128px;
 }
 /* Footer Section */
+.footer-section{
+    height: 40vh;
+    background-color: #111010;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 128px;
+}
+.footer-header{
+    color: #FFFFFF;
+    font-size: 36px;
+    font-weight: 800;
+    padding-bottom: 24px;
+}
+.footer-para{
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: 400;
+    padding-bottom: 32px;
+}
+.footer-reserver{
+    color: gray;
+}
